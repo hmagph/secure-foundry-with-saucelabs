@@ -1,6 +1,6 @@
 # Example of an IBM Bluemix DevOps Services Toolchain integrated with Sauce Labs
 
-# A simple pipeline with a HelloWorld Node.js application that runs tests via Sauce Labs. This is an easy way to get a pre-configured pipeline with all the environment variables set and ready to go! The Sauce Labs username and API key fields will need to be filled in with valid information before the stage will run correctly.
+<!-- A simple pipeline with a HelloWorld Node.js application that runs tests via Sauce Labs. This is an easy way to get a pre-configured pipeline with all the environment variables set and ready to go! The Sauce Labs username and API key fields will need to be filled in with valid information before the stage will run correctly.-->
 
 Press this button, to get your own copy of the sample and toolchain running in Bluemix !
 
