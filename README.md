@@ -1,8 +1,10 @@
-# Example Cloud Foundry pipeline for helloworld Java application using WebSphere Liberty  
+# Example of an IBM Bluemix DevOps Services Toolchain integrated with Sauce Labs
 
-Press this button, to get your own copy of the sample running in Bluemix !
+# A simple pipeline with a HelloWorld Node.js application that runs tests via Sauce Labs. This is an easy way to get a pre-configured pipeline with all the environment variables set and ready to go! The Sauce Labs username and API key fields will need to be filled in with valid information before the stage will run correctly.
 
-[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://hub.jazz.net/deploy/index.html?repository=https://github.com/Puquios/secure-foundry.git)
+Press this button, to get your own copy of the sample and toolchain running in Bluemix !
+
+[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://dev01.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/secure-foundry-with-saucelabs)
 
 ## Overview 
 IBM DevOps Services has a Continuous Delivery Pipeline for deploying Cloud Foundry applications, containers, and micro-services to IBM Bluemix. You can use a textual representation of a pipeline defined by a pipeline.yml file, which makes it easy to share and copy interesting pipelines. The Deploy to Bluemix button provides a simple way to clone a project that includes the source files and the Delivery Pipeline configuration. 
